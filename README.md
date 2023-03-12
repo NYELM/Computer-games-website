@@ -30,3 +30,30 @@ Clone o projeto com o comando abaixo:
   # Execute o projeto
   > dotnet run
 ```
+# The project
+
+This is a fictitious computer games website where the user will have a good *UX* along with a good *UI*. This project was followed by
+**SENAI** where I'm taking a professional course in Full-stack developer. This was my first experience with *Boostrap* and *Jquery*. 
+I also learned more commands about *HTML5* and *CSS3*.
+
+## 👨‍💻️ technologies used
+
+* HTML5
+- CSS3
++ JavaScript
+* Jquery
+- Bootstrap
++ VScode
+
+## 📦️ How to run the project
+clone the project with the repository below:
+
+```bash
+  # Clone the repository
+  > Git clone
+  https://github.com/[user]/[project-name].git
+  # Enter in the directory
+  > cd [project-name]
+  # Run the project
+  > dotnet run
+```
